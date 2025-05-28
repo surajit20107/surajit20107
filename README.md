@@ -48,6 +48,7 @@ I'm **Surajit**, a **Full-Stack JavaScript Developer** with deep mastery in **Ja
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=flat&logo=mongoose&logoColor=white)
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-EA4335?style=flat&logo=gmail&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-CC3B2D?style=flat&logo=redis&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-blue?style=flat&logo=cloudinary&logoColor=white)
 ![Multer](https://img.shields.io/badge/Multer-FF6F00?style=flat)
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-FFCA28?style=flat)
