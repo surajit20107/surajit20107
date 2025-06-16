@@ -18,13 +18,19 @@
 
 ---
 
-### About Me
+### 🏆 About Me
 
 I'm **Surajit**, a **Full-Stack JavaScript Developer** with deep mastery in **JavaScript**, passionate about building scalable web applications and real-time systems. Currently diving deep into **Socket.IO** and **Microservices Architecture**.
 
 ---
 
-### Technologies & Tools
+### 🚀 Portfolio
+
+<p align="center"> <a href="https://surajit-dev.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio Badge" /> </a> </p> <p align="center"> <b>🧠 Explore my latest projects, interactive UI/UX demos, real-time apps, and more.</b><br/> Built with <code>passion</code>, <code>JavaScript</code>, and a hint of <code>madness ⚡</code>. </p>
+
+---
+
+### 🧑‍💻 Technologies & Tools
 
 #### Frontend:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -66,7 +72,7 @@ I'm **Surajit**, a **Full-Stack JavaScript Developer** with deep mastery in **Ja
 
 ---
 
-### GitHub Stats
+### 🐙 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=surajit20107&show_icons=true&theme=tokyonight" />
@@ -76,7 +82,7 @@ I'm **Surajit**, a **Full-Stack JavaScript Developer** with deep mastery in **Ja
 
 ---
 
-### What I'm Learning Now
+### 🧑‍🎓 What I'm Learning Now
 
 - Real-Time Web Apps with **Socket.IO**
 - Scalable systems with **Microservices Architecture**
@@ -84,7 +90,7 @@ I'm **Surajit**, a **Full-Stack JavaScript Developer** with deep mastery in **Ja
 
 ---
 
-### Connect with Me
+### 📨 Connect with Me
 
 <p align="center">
   <a href="https://twitter.com/surajit_20107">
