@@ -52,7 +52,6 @@ I'm **Surajit**, a **Full-Stack JavaScript Developer** with deep mastery in **Ja
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-25C2A0?style=flat&logo=socket.io&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-blue?style=flat&logo=docker&logoColor=white)
-![NGNIX](https://img.shields.io/badge/NGINX-0E9849?style=flat&logo=nginx&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=flat&logo=mongoose&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-F6009C?style=flat&logo=graphql&logoColor=white)
@@ -66,7 +65,7 @@ I'm **Surajit**, a **Full-Stack JavaScript Developer** with deep mastery in **Ja
 #### Tools & DevOps:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![NGNIX](https://img.shields.io/badge/NGINX-0E9849?style=flat&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
