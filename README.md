@@ -11,7 +11,7 @@
   <a href="mailto:surajitjana20107@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/">
+  <a href="https://linkedin.com/in/surajit-jana20107">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -98,7 +98,7 @@ I'm **Surajit**, a **Full-Stack JavaScript Developer** with deep mastery in **Ja
   <a href="https://twitter.com/surajit_20107">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://linkedin.com/in/surajit-jana20107">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:surajitjana20107@gmail.com">
