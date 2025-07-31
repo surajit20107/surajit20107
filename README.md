@@ -77,11 +77,10 @@ I'm **Surajit**, a **Full-Stack JavaScript Developer** with deep mastery in **Ja
 
 <p align="center">
   <a href="https://leetcode.com/surajit_07/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-surajit_07-orange?style=flat&logo=leetcode" alt="LeetCode Badge" />
+    <img src="https://img.shields.io/badge/LeetCode-Surajit Jana-orange?style=flat&logo=leetcode" alt="LeetCode Badge" />
   </a>
 </p>
 
-<!-- You can use a dynamic stats card from https://leetcard.jacoblin.cool/ -->
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/surajit_07?theme=dark&ext=contest" alt="LeetCode Stats Card" />
 </p>
