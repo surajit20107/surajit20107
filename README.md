@@ -38,7 +38,13 @@ React.js • Next.js • Tailwind CSS • Redux • Bootstrap • MUI • Framer
 ### **Backend**
 Node.js • Express.js • Fastify • Hono
 <br />
-MongoDB • PostgreSQL • Redis • Pinecone • Prisma • Drizzle • Mongoose • JWT • Clerk • Better-Auth • Passport.js • Socket.IO • GraphQL • Multer
+MongoDB • PostgreSQL • Redis • Pinecone
+<br />
+Prisma • Drizzle • Mongoose
+<br />
+JWT • Clerk • Better-Auth • Passport.js
+<br />
+Socket.IO • GraphQL • Multer
 
 ### **DevOps & Systems**
 Linux • Bash • Docker • NGINX
