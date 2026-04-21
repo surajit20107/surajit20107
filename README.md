@@ -52,7 +52,7 @@ Git • GitHub • Postman • VS Code • Figma
 Vercel • Netlify • Render • Cloudinary • Inngest
 
 ### **Currently Exploring**
-Socket.IO • Microservices • Scalable Backend Systems • DevOps Workflows
+Real-time Systems (Socket.IO) • Microservices Architecture • Scalable Backend Design • DevOps & CI/CD
 
 ---
 
