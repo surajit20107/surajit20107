@@ -48,7 +48,15 @@ Socket.IO • Microservices • Scalable Backend Systems • DevOps Workflows
 
 ## 🌟 Featured Projects
 
-### **1. Autonomous Agent**
+### **1. Code Hawk**
+AI-powered code review tool.
+
+**Tech:** Next.js, React, TypeScript, Node.js, Inngest, PostgreSQL, Pinecone, Polar, Octokit, RAG, Vercel AI SDK, Tailwind CSS, Shadcn UI
+🔗 [GitHub](https://github.com/surajit20107/code-hawk) • [Live Demo](https://code-hawk.vercel.app)
+
+---
+
+### **2. Autonomous Agent**
 AI-powered autonomous assistant built with modern agent workflows and tool orchestration.
 
 **Tech:** Next.js, TypeScript, LangChain, LangGraph, Gemini AI, Express.js  
@@ -56,7 +64,7 @@ AI-powered autonomous assistant built with modern agent workflows and tool orche
 
 ---
 
-### **2. AI Ticket Agent**
+### **3. AI Ticket Agent**
 AI-based ticket management system designed to automate support workflows and issue handling.
 
 **Tech:** MongoDB, Express.js, React, Node.js, JWT, Tailwind CSS  
@@ -64,7 +72,7 @@ AI-based ticket management system designed to automate support workflows and iss
 
 ---
 
-### **3. ReTitle AI**
+### **4. ReTitle AI**
 AI-assisted YouTube title optimization tool for creators and content workflows.
 
 **Tech:** Next.js, React, Zod  
@@ -72,7 +80,7 @@ AI-assisted YouTube title optimization tool for creators and content workflows.
 
 ---
 
-### **4. WriteFlow**
+### **5. WriteFlow**
 AI writing assistant for generating emails and blog content with a clean workflow.
 
 **Tech:** Next.js, React, Puter AI  
@@ -80,7 +88,7 @@ AI writing assistant for generating emails and blog content with a clean workflo
 
 ---
 
-### **5. Password Vault**
+### **6. Password Vault**
 Secure password manager with authentication and protected user workflows.
 
 **Tech:** MERN Stack, JWT, Cloudinary  
