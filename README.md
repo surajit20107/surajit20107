@@ -36,11 +36,11 @@ JavaScript • TypeScript • Go • Python • C • SQL
 React.js • Next.js • Tailwind CSS • Redux • Bootstrap • MUI • Framer Motion
 
 ### **Backend**
-Node.js • Express.js • Fastify • Hono
+Node.js • Express.js • Fastify • Hono • Gin
 <br />
 MongoDB • PostgreSQL • Redis • Pinecone
 <br />
-Prisma • Drizzle • Mongoose
+Prisma • Drizzle • Mongoose • GORM
 <br />
 JWT • Clerk • Better-Auth • Passport.js
 <br />
