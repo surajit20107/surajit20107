@@ -36,10 +36,16 @@ JavaScript • TypeScript • Go • Python • C • SQL
 React.js • Next.js • Tailwind CSS • Redux • Bootstrap • MUI • Framer Motion
 
 ### **Backend**
-Node.js • Express.js • MongoDB • Mongoose • JWT • Socket.IO • GraphQL • Redis • Passport.js
+Node.js • Express.js • MongoDB • Mongoose • JWT • Socket.IO • GraphQL • Redis • PostgreSQL • Pinecone • Drizzle • Prisma • Passport.js • Multer
 
-### **Tools & DevOps**
-Git • GitHub • Postman • Docker • Nginx • Inngest • Cloudinary • Multer • VS Code • Figma • Vercel • Netlify • Render
+### **DevOps & Systems**
+Linux • Bash • Docker • NGINX
+
+### **Tools & Platforms**
+Git • GitHub • Postman • VS Code • Figma
+
+### **Cloud & Services**
+Vercel • Netlify • Render • Cloudinary • Inngest
 
 ### **Currently Exploring**
 Socket.IO • Microservices • Scalable Backend Systems • DevOps Workflows
