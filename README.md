@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Surajit Jana 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> • <b>Next.js</b> • <b>TypeScript</b> • <b>MERN</b> • <b>AI-Powered Applications</b>
+  <b>Full Stack Developer</b> • <b>Next.js</b> • <b>TypeScript</b> • <b>MERN</b> • <b>AI-powered SaaS & Developer Tools</b>
 </p>
 
 <p align="center">
