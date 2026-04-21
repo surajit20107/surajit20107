@@ -39,7 +39,7 @@ React.js • Next.js • Tailwind CSS • Redux • Bootstrap • MUI • Framer
 Node.js • Express.js • MongoDB • Mongoose • JWT • Socket.IO • GraphQL • Redis • Passport.js
 
 ### **Tools & DevOps**
-Git • GitHub • Postman • Docker • Nginx • Cloudinary • Multer • VS Code • Figma
+Git • GitHub • Postman • Docker • Nginx • Inngest • Cloudinary • Multer • VS Code • Figma • Vercel • Netlify • Render
 
 ### **Currently Exploring**
 Socket.IO • Microservices • Scalable Backend Systems • DevOps Workflows
@@ -49,7 +49,7 @@ Socket.IO • Microservices • Scalable Backend Systems • DevOps Workflows
 ## 🌟 Featured Projects
 
 ### **1. Code Hawk**
-AI-powered code review tool.
+AI-Powered GitHub Code Reviews & Analytics Platform. Automate code review workflows with advanced AI analysis. Get intelligent insights on pull requests, track coding activity, and improve code quality at scale.
 
 **Tech:** Next.js, React, TypeScript, Node.js, Inngest, PostgreSQL, Pinecone, Polar, Octokit, RAG, Vercel AI SDK, Tailwind CSS, Shadcn UI
 🔗 [GitHub](https://github.com/surajit20107/code-hawk) • [Live Demo](https://code-hawk.vercel.app)
