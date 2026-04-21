@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build modern full stack web applications with clean UI, scalable backend systems, and practical AI integrations.
+  I build scalable full stack applications and AI-powered developer tools focused on performance, automation, and real-world usability.
 </p>
 
 <p align="center">
