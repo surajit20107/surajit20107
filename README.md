@@ -33,7 +33,7 @@
 JavaScript • TypeScript • Go • Python • C • SQL
 
 ### **Frontend**
-React.js • Next.js • Tailwind CSS • Redux • Bootstrap • MUI • Framer Motion
+React.js • Next.js • React Native • Tailwind CSS • Redux • Bootstrap • MUI • Framer Motion
 
 ### **Backend**
 Node.js • Express.js • Fastify • Hono • Gin
