@@ -70,13 +70,22 @@ AI-Powered GitHub Code Reviews & Analytics Platform. Automate code review workfl
 
 ---
 
-### **2. Autonomous Agent**
+### **2. PPTGenie**
+PPTGenie is an AI-powered web app that transforms simple prompts into professional presentations. Create, manage, and customize stunning slides instantly using smart AI generation and beautifully designed templates.
+
+**Tech:** Tanstack Start, TypeScript, Better Auth, PptxGenJS, PostgreSQL, Inngest, ImageKit, Zod, Tailwind CSS, Shadcn UI
+🔗 [GitHub](https://github.com/surajit20107/PPTGenie) • [Live Demo](https://ppt-genie.vercel.app)
+
+---
+
+### **3. Autonomous Agent**
 AI-powered autonomous assistant built with modern agent workflows and tool orchestration.
 
 **Tech:** Next.js, TypeScript, LangChain, LangGraph, Gemini AI, Express.js  
 🔗 [GitHub](https://github.com/surajit20107/Autonomous-Agent) • [Live Demo](https://zevinagent.vercel.app)
 
 ---
+
 
 ## 📈 GitHub Stats
 
