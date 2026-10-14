@@ -30,7 +30,7 @@
 ## 🛠 Tech Stack
 
 ### **Languages**
-JavaScript • TypeScript • Go • Python • C • SQL
+JavaScript • TypeScript • Go • Python • SQL
 
 ### **Frontend**
 React.js • Next.js • React Native • Tailwind CSS • Redux • Bootstrap • MUI • Framer Motion
@@ -75,38 +75,6 @@ AI-powered autonomous assistant built with modern agent workflows and tool orche
 
 **Tech:** Next.js, TypeScript, LangChain, LangGraph, Gemini AI, Express.js  
 🔗 [GitHub](https://github.com/surajit20107/Autonomous-Agent) • [Live Demo](https://zevinagent.vercel.app)
-
----
-
-### **3. AI Ticket Agent**
-AI-based ticket management system designed to automate support workflows and issue handling.
-
-**Tech:** MongoDB, Express.js, React, Node.js, JWT, Tailwind CSS  
-🔗 [GitHub](https://github.com/surajit20107/Ai-Ticket-Agent) • [Live Demo](https://ticket-pilot.vercel.app)
-
----
-
-### **4. ReTitle AI**
-AI-assisted YouTube title optimization tool for creators and content workflows.
-
-**Tech:** Next.js, React, Zod  
-🔗 [GitHub](https://github.com/surajit20107/ReTitle-AI) • [Live Demo](https://retitle.vercel.app)
-
----
-
-### **5. WriteFlow**
-AI writing assistant for generating emails and blog content with a clean workflow.
-
-**Tech:** Next.js, React, Puter AI  
-🔗 [GitHub](https://github.com/surajit20107/writeFlow) • [Live Demo](https://writeagent.vercel.app)
-
----
-
-### **6. Password Vault**
-Secure password manager with authentication and protected user workflows.
-
-**Tech:** MERN Stack, JWT, Cloudinary  
-🔗 [GitHub](https://github.com/surajit20107/Last-pass) • [Live Demo](https://last-pass-chi.vercel.app)
 
 ---
 
