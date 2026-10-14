@@ -66,6 +66,7 @@ Real-time Systems (Socket.IO) • Microservices Architecture • Scalable Backen
 AI-Powered GitHub Code Reviews & Analytics Platform. Automate code review workflows with advanced AI analysis. Get intelligent insights on pull requests, track coding activity, and improve code quality at scale.
 
 **Tech:** Next.js, React, TypeScript, Node.js, Inngest, PostgreSQL, Pinecone, Polar, Octokit, RAG, Vercel AI SDK, Tailwind CSS, Shadcn UI
+
 🔗 [GitHub](https://github.com/surajit20107/code-hawk) • [Live Demo](https://code-hawk.vercel.app)
 
 ---
@@ -74,6 +75,7 @@ AI-Powered GitHub Code Reviews & Analytics Platform. Automate code review workfl
 PPTGenie is an AI-powered web app that transforms simple prompts into professional presentations. Create, manage, and customize stunning slides instantly using smart AI generation and beautifully designed templates.
 
 **Tech:** Tanstack Start, TypeScript, Better Auth, PptxGenJS, PostgreSQL, Inngest, ImageKit, Zod, Tailwind CSS, Shadcn UI
+
 🔗 [GitHub](https://github.com/surajit20107/PPTGenie) • [Live Demo](https://ppt-genie.vercel.app)
 
 ---
@@ -81,7 +83,8 @@ PPTGenie is an AI-powered web app that transforms simple prompts into profession
 ### **3. Autonomous Agent**
 AI-powered autonomous assistant built with modern agent workflows and tool orchestration.
 
-**Tech:** Next.js, TypeScript, LangChain, LangGraph, Gemini AI, Express.js  
+**Tech:** Next.js, TypeScript, LangChain, LangGraph, Gemini AI, Express.js
+
 🔗 [GitHub](https://github.com/surajit20107/Autonomous-Agent) • [Live Demo](https://zevinagent.vercel.app)
 
 ---
